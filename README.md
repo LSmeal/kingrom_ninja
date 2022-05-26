@@ -2,8 +2,6 @@
 
 支持CK注册，登录和删除，支持WSKEY录入和删除，登录成功进入个人中心，可修改备注。默认登录CK才可提交WSCK，主页提交WSCK容易乱，不建议。
 
-基本功能已完善，鸽几天，有问题先仔细看此README。
-
 ## 致谢
 
 感谢Ninja原作者：@MoonBegonia
@@ -26,7 +24,6 @@ Ninja 仅供学习参考使用，请于下载后的 24 小时内删除，本人�
 
 Ninja 仅支持 qinglong 2.8.2+
 
-[TG 频道](https://t.me/joinchat/sHKuteb_lfdjNmZl)
 
 ## 特性
 
@@ -98,7 +95,7 @@ Ninja 仅支持 qinglong 2.8.2+
    **进容器内执行以下命令**
 
    ```bash
-   git clone https://github.com/KingRan/kingrom_ninja.git /ql/ninja
+   git clone https://github.com/LSmeal/kingrom_ninja.git /ql/ninja
    cd /ql/ninja/backend
    pnpm install
    cp .env.example .env # 如有需要, 修改.env
